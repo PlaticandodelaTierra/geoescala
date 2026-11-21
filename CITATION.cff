@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+title: "GeoEscala: geologic time scale bars for figures"
+message: >-
+  If you use GeoEscala, please cite it together with the ICS International
+  Chronostratigraphic Chart, the source of the ages and colors (see
+  references).
+type: software
+authors:
+  - given-names: Darío
+    family-names: Torres Sánchez
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/PlaticandodelaTierra/geoescala"
+url: "https://platicandodelatierra.github.io/geoescala/"
+abstract: >-
+  A web application, with no installation and no server, that draws
+  geologic time scale bars with the official ages and colors of the ICS
+  International Chronostratigraphic Chart (v2026/06), ready for thesis and
+  journal figures: physical size in mm, editable SVG text, PNG at 300 or
+  600 dpi and vector PDF, with Spanish and English interface and labels.
+keywords:
+  - geology
+  - earth science
+  - geologic time scale
+  - stratigraphy
+  - chronostratigraphy
+  - education
+  - scientific figures
+  - Spanish
+references:
+  - type: article
+    authors:
+      - family-names: Cohen
+        given-names: K. M.
+      - family-names: Harper
+        given-names: D. A. T.
+      - family-names: Gibbard
+        given-names: P. L.
+      - family-names: Car
+        given-names: N.
+    title: "The ICS international chronostratigraphic chart this decade"
+    journal: Episodes
+    volume: 48
+    issue: 1
+    start: 105
+    end: 115
+    year: 2025
+    doi: 10.18814/epiiugs/2025/025001

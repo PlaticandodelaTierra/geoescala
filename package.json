@@ -1,0 +1,29 @@
+{
+  "name": "geoescala",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Escala de tiempo geológico con colores y edades oficiales de la ICS, lista para figuras",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "devDependencies": {
+    "vite": "^8.3.8",
+    "vitest": "^5.1.0"
+  },
+  "dependencies": {
+    "jspdf": "^4.2.1",
+    "svg2pdf.js": "^2.9.0"
+  },
+  "author": "Darío Torres Sánchez",
+  "homepage": "https://platicandodelatierra.github.io/geoescala/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PlaticandodelaTierra/geoescala.git"
+  }
+}

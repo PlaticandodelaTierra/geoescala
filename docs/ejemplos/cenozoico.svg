@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="175mm" height="30mm" viewBox="0 0 175 30" role="img">
+<title>Escala de tiempo geológico, 66–0 Ma</title>
+<g stroke="#000000" stroke-width="0.1">
+<rect data-id="periodo-cuaternario" x="167.4994" y="0" width="6.8141" height="6.2326" fill="#F9F97F"><title>Cuaternario</title></rect>
+<rect data-id="periodo-neogeno" x="113.4622" y="0" width="54.0372" height="6.2326" fill="#FFE619"><title>Neógeno</title></rect>
+<rect data-id="periodo-paleogeno" x="0" y="0" width="113.4622" height="6.2326" fill="#FD9A52"><title>Paleógeno</title></rect>
+<rect data-id="epoca-holoceno" x="174.2826" y="6.2326" width="0.0309" height="6.2326" fill="#FEEBD2"><title>Holoceno</title></rect>
+<rect data-id="epoca-pleistoceno" x="167.4994" y="6.2326" width="6.7832" height="6.2326" fill="#FFEFAF"><title>Pleistoceno</title></rect>
+<rect data-id="epoca-plioceno" x="160.2284" y="6.2326" width="7.271" height="6.2326" fill="#FFFF99"><title>Plioceno</title></rect>
+<rect data-id="epoca-mioceno" x="113.4622" y="6.2326" width="46.7662" height="6.2326" fill="#FFFF00"><title>Mioceno</title></rect>
+<rect data-id="epoca-oligoceno" x="84.7797" y="6.2326" width="28.6825" height="6.2326" fill="#FEC07A"><title>Oligoceno</title></rect>
+<rect data-id="epoca-eoceno" x="26.4111" y="6.2326" width="58.3686" height="6.2326" fill="#FDB46C"><title>Eoceno</title></rect>
+<rect data-id="epoca-paleoceno" x="0" y="6.2326" width="26.4111" height="6.2326" fill="#FDA75F"><title>Paleoceno</title></rect>
+<rect data-id="piso-megalayiano" x="174.3024" y="12.4652" width="0.0111" height="6.2326" fill="#FDEDEC"><title>Megalayiano</title></rect>
+<rect data-id="piso-norgripiano" x="174.2918" y="12.4652" width="0.0106" height="6.2326" fill="#FDECE4"><title>Norgripiano</title></rect>
+<rect data-id="piso-groenlandiano" x="174.2826" y="12.4652" width="0.0092" height="6.2326" fill="#FEECDB"><title>Groenlandiano</title></rect>
+<rect data-id="piso-pleistoceno-superior" x="173.9728" y="12.4652" width="0.3098" height="6.2326" fill="#FFF2D3"><title>Pleistoceno Superior</title></rect>
+<rect data-id="piso-chibaniano" x="172.2693" y="12.4652" width="1.7035" height="6.2326" fill="#FFF2C7"><title>Chibaniano</title></rect>
+<rect data-id="piso-calabriano" x="169.5595" y="12.4652" width="2.7098" height="6.2326" fill="#FFF2BA"><title>Calabriano</title></rect>
+<rect data-id="piso-gelasiano" x="167.4994" y="12.4652" width="2.0601" height="6.2326" fill="#FFEDB3"><title>Gelasiano</title></rect>
+<rect data-id="piso-piacenziano" x="164.8055" y="12.4652" width="2.6939" height="6.2326" fill="#FFFFBF"><title>Piacenziano</title></rect>
+<rect data-id="piso-zancliano" x="160.2284" y="12.4652" width="4.577" height="6.2326" fill="#FFFFB3"><title>Zancliano</title></rect>
+<rect data-id="piso-mesiniano" x="155.176" y="12.4652" width="5.0525" height="6.2326" fill="#FFFF73"><title>Mesiniano</title></rect>
+<rect data-id="piso-tortoniano" x="143.5973" y="12.4652" width="11.5786" height="6.2326" fill="#FFFF66"><title>Tortoniano</title></rect>
+<rect data-id="piso-serravaliano" x="137.8133" y="12.4652" width="5.784" height="6.2326" fill="#FFFF59"><title>Serravaliano</title></rect>
+<rect data-id="piso-langhiano" x="132.1085" y="12.4652" width="5.7048" height="6.2326" fill="#FFFF4D"><title>Langhiano</title></rect>
+<rect data-id="piso-burdigaliano" x="120.3027" y="12.4652" width="11.8058" height="6.2326" fill="#FFFF41"><title>Burdigaliano</title></rect>
+<rect data-id="piso-aquitaniano" x="113.4622" y="12.4652" width="6.8405" height="6.2326" fill="#FFFF33"><title>Aquitaniano</title></rect>
+<rect data-id="piso-chattiano" x="102.2111" y="12.4652" width="11.2511" height="6.2326" fill="#FEE6AA"><title>Chattiano</title></rect>
+<rect data-id="piso-rupeliano" x="84.7797" y="12.4652" width="17.4313" height="6.2326" fill="#FED99A"><title>Rupeliano</title></rect>
+<rect data-id="piso-priaboniano" x="74.7171" y="12.4652" width="10.0626" height="6.2326" fill="#FDCDA1"><title>Priaboniano</title></rect>
+<rect data-id="piso-bartoniano" x="65.9486" y="12.4652" width="8.7685" height="6.2326" fill="#FDC091"><title>Bartoniano</title></rect>
+<rect data-id="piso-lutetiano" x="47.3552" y="12.4652" width="18.5934" height="6.2326" fill="#FDB482"><title>Lutetiano</title></rect>
+<rect data-id="piso-ypresiano" x="26.4111" y="12.4652" width="20.944" height="6.2326" fill="#FCA773"><title>Ypresiano</title></rect>
+<rect data-id="piso-thanetiano" x="17.8539" y="12.4652" width="8.5572" height="6.2326" fill="#FDBF6F"><title>Thanetiano</title></rect>
+<rect data-id="piso-selandiano" x="11.4624" y="12.4652" width="6.3915" height="6.2326" fill="#FEBF65"><title>Selandiano</title></rect>
+<rect data-id="piso-daniano" x="0" y="12.4652" width="11.4624" height="6.2326" fill="#FDB462"><title>Daniano</title></rect>
+<rect x="0.05" y="0.05" width="174.2135" height="18.5978" fill="none"/>
+</g>
+<g font-family="Arial, Helvetica, sans-serif" font-size="2.4694" text-anchor="middle" fill="#000000">
+<text x="170.9065" y="3.9806">Q</text>
+<text x="140.4808" y="3.9806">Neógeno</text>
+<text x="56.7311" y="3.9806">Paleógeno</text>
+<text x="170.891" y="10.2132">Ple</text>
+<text x="163.8639" y="10.2132">Pli</text>
+<text x="136.8453" y="10.2132">Mioceno</text>
+<text x="99.121" y="10.2132">Oligoceno</text>
+<text x="55.5954" y="10.2132">Eoceno</text>
+<text x="13.2056" y="10.2132">Paleoceno</text>
+<text x="162.517" y="16.4458" transform="rotate(-90 162.517 15.5815)">Zan.</text>
+<text x="149.3867" y="16.4458">Torton.</text>
+<text x="140.7053" y="16.4458">Ser.</text>
+<text x="134.9609" y="16.4458" transform="rotate(-90 134.9609 15.5815)">Lan.</text>
+<text x="126.2056" y="16.4458">Burdig.</text>
+<text x="116.8825" y="16.4458">Aqu.</text>
+<text x="107.8367" y="16.4458">Chatt.</text>
+<text x="93.4954" y="16.4458">Rupeliano</text>
+<text x="79.7484" y="16.4458">Priab.</text>
+<text x="70.3329" y="16.4458">Bart.</text>
+<text x="56.6519" y="16.4458">Lutetiano</text>
+<text x="36.8832" y="16.4458">Ypresiano</text>
+<text x="22.1325" y="16.4458">Than.</text>
+<text x="14.6582" y="16.4458">Sel.</text>
+<text x="5.7312" y="16.4458">Daniano</text>
+</g>
+<g class="eje" stroke="#000000" stroke-width="0.1">
+<line x1="174.3135" y1="18.6978" x2="174.3135" y2="19.6978"/>
+<line x1="147.9024" y1="18.6978" x2="147.9024" y2="19.6978"/>
+<line x1="121.4912" y1="18.6978" x2="121.4912" y2="19.6978"/>
+<line x1="95.0801" y1="18.6978" x2="95.0801" y2="19.6978"/>
+<line x1="68.669" y1="18.6978" x2="68.669" y2="19.6978"/>
+<line x1="42.2578" y1="18.6978" x2="42.2578" y2="19.6978"/>
+<line x1="15.8467" y1="18.6978" x2="15.8467" y2="19.6978"/>
+</g>
+<g font-family="Arial, Helvetica, sans-serif" font-size="2.4694" text-anchor="middle" fill="#000000">
+<text x="174.3135" y="22.0758">0</text>
+<text x="147.9024" y="22.0758">10</text>
+<text x="121.4912" y="22.0758">20</text>
+<text x="95.0801" y="22.0758">30</text>
+<text x="68.669" y="22.0758">40</text>
+<text x="42.2578" y="22.0758">50</text>
+<text x="15.8467" y="22.0758">60</text>
+<text x="87.1567" y="25.3452">Edad (Ma)</text>
+</g>
+<g class="pie" font-family="Arial, Helvetica, sans-serif" font-size="2.4694" text-anchor="start" fill="#000000">
+<text x="0" y="28.8147">Edades y colores: ICS v2026/06</text>
+</g>
+</svg>

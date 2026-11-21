@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="60mm" height="160mm" viewBox="0 0 60 160" role="img">
+<title>Escala de tiempo geológico, 251.902–66 Ma</title>
+<g stroke="#000000" stroke-width="0.1">
+<rect data-id="periodo-cretacico" x="0" y="1.2347" width="18.6061" height="38.3918" fill="#7FC64E"><title>Cretácico</title></rect>
+<rect data-id="periodo-jurasico" x="0" y="39.6265" width="18.6061" height="57.5877" fill="#34B2C9"><title>Jurásico</title></rect>
+<rect data-id="periodo-triasico" x="0" y="97.2142" width="18.6061" height="57.5877" fill="#812B92"><title>Triásico</title></rect>
+<rect data-id="epoca-cretacico-superior" x="18.6061" y="1.2347" width="18.6061" height="19.1959" fill="#A6D84A"><title>Cretácico Tardío</title></rect>
+<rect data-id="epoca-cretacico-inferior" x="18.6061" y="20.4306" width="18.6061" height="19.1959" fill="#8CCD57"><title>Cretácico Temprano</title></rect>
+<rect data-id="epoca-jurasico-superior" x="18.6061" y="39.6265" width="18.6061" height="19.1959" fill="#B3E3EE"><title>Jurásico Tardío</title></rect>
+<rect data-id="epoca-jurasico-medio" x="18.6061" y="58.8224" width="18.6061" height="19.1959" fill="#80CFD8"><title>Jurásico Medio</title></rect>
+<rect data-id="epoca-jurasico-inferior" x="18.6061" y="78.0183" width="18.6061" height="19.1959" fill="#42AED0"><title>Jurásico Temprano</title></rect>
+<rect data-id="epoca-triasico-superior" x="18.6061" y="97.2142" width="18.6061" height="19.1959" fill="#BD8CC3"><title>Triásico Tardío</title></rect>
+<rect data-id="epoca-triasico-medio" x="18.6061" y="116.4101" width="18.6061" height="19.1959" fill="#B168B1"><title>Triásico Medio</title></rect>
+<rect data-id="epoca-triasico-inferior" x="18.6061" y="135.606" width="18.6061" height="19.1959" fill="#983999"><title>Triásico Temprano</title></rect>
+<rect x="0.05" y="1.2847" width="37.1123" height="153.4672" fill="none"/>
+</g>
+<g font-family="Arial, Helvetica, sans-serif" font-size="2.4694" text-anchor="middle" fill="#000000">
+<text x="9.3031" y="21.2949">Cretácico</text>
+<text x="9.3031" y="69.2847">Jurásico</text>
+<text x="9.3031" y="126.8724" fill="#FFFFFF">Triásico</text>
+<text x="27.9092" y="11.697" transform="rotate(-90 27.9092 10.8327)">Cretácico Tardío</text>
+<text x="27.9092" y="30.8929">Cretác. Tempr.</text>
+<text x="27.9092" y="50.0888">Jurásico Tardío</text>
+<text x="27.9092" y="69.2847">Jurásico Medio</text>
+<text x="27.9092" y="88.4806">Jurás. Tempr.</text>
+<text x="27.9092" y="107.6765">Triásico Tardío</text>
+<text x="27.9092" y="126.8724">Triásico Medio</text>
+<text x="27.9092" y="146.0683" fill="#FFFFFF">Triás. Tempr.</text>
+</g>
+<g class="eje" stroke="#000000" stroke-width="0.1">
+<line x1="37.2123" y1="1.2347" x2="38.2123" y2="1.2347"/>
+<line x1="37.2123" y1="20.4306" x2="38.2123" y2="20.4306"/>
+<line x1="37.2123" y1="39.6265" x2="38.2123" y2="39.6265"/>
+<line x1="37.2123" y1="58.8224" x2="38.2123" y2="58.8224"/>
+<line x1="37.2123" y1="78.0183" x2="38.2123" y2="78.0183"/>
+<line x1="37.2123" y1="97.2142" x2="38.2123" y2="97.2142"/>
+<line x1="37.2123" y1="116.4101" x2="38.2123" y2="116.4101"/>
+<line x1="37.2123" y1="135.606" x2="38.2123" y2="135.606"/>
+<line x1="37.2123" y1="154.8019" x2="38.2123" y2="154.8019"/>
+</g>
+<g font-family="Arial, Helvetica, sans-serif" font-size="2.4694" text-anchor="middle" fill="#000000">
+<text x="38.8123" y="2.099" text-anchor="start">66.00</text>
+<text x="38.8123" y="21.2949" text-anchor="start">100.5 ± 0.1</text>
+<text x="38.8123" y="40.4908" text-anchor="start">143.1 ± 0.6</text>
+<text x="38.8123" y="59.6867" text-anchor="start">161.5 ± 1.0</text>
+<text x="38.8123" y="78.8826" text-anchor="start">174.7 ± 0.8</text>
+<text x="38.8123" y="98.0785" text-anchor="start">201.4 ± 0.2</text>
+<text x="38.8123" y="117.2744" text-anchor="start">~237</text>
+<text x="38.8123" y="136.4703" text-anchor="start">247.0</text>
+<text x="38.8123" y="155.6662" text-anchor="start">251.902 ± 0.024</text>
+<text x="58.7653" y="78.8826" transform="rotate(-90 58.7653 78.0183)">Edad (Ma)</text>
+</g>
+<g class="pie" font-family="Arial, Helvetica, sans-serif" font-size="2.4694" text-anchor="start" fill="#000000">
+<text x="0" y="158.8147">Edades y colores: ICS v2026/06</text>
+</g>
+</svg>

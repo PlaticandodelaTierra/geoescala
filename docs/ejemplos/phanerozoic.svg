@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="175mm" height="30mm" viewBox="0 0 175 30" role="img">
+<title>Geologic time scale, 538.8–0 Ma</title>
+<g stroke="#000000" stroke-width="0.1">
+<rect data-id="eon-fanerozoico" x="0" y="0" width="174.3135" height="6.2326" fill="#9AD9DD"><title>Phanerozoic</title></rect>
+<rect data-id="era-cenozoico" x="152.9611" y="6.2326" width="21.3524" height="6.2326" fill="#F2F91D"><title>Cenozoic</title></rect>
+<rect data-id="era-mesozoico" x="92.8177" y="6.2326" width="60.1433" height="6.2326" fill="#67C5CA"><title>Mesozoic</title></rect>
+<rect data-id="era-paleozoico" x="0" y="6.2326" width="92.8177" height="6.2326" fill="#99C08D"><title>Paleozoic</title></rect>
+<rect data-id="periodo-cuaternario" x="173.4788" y="12.4652" width="0.8347" height="6.2326" fill="#F9F97F"><title>Quaternary</title></rect>
+<rect data-id="periodo-neogeno" x="166.8596" y="12.4652" width="6.6193" height="6.2326" fill="#FFE619"><title>Neogene</title></rect>
+<rect data-id="periodo-paleogeno" x="152.9611" y="12.4652" width="13.8985" height="6.2326" fill="#FD9A52"><title>Paleogene</title></rect>
+<rect data-id="periodo-cretacico" x="128.0175" y="12.4652" width="24.9435" height="6.2326" fill="#7FC64E"><title>Cretaceous</title></rect>
+<rect data-id="periodo-jurasico" x="109.1562" y="12.4652" width="18.8613" height="6.2326" fill="#34B2C9"><title>Jurassic</title></rect>
+<rect data-id="periodo-triasico" x="92.8177" y="12.4652" width="16.3385" height="6.2326" fill="#812B92"><title>Triassic</title></rect>
+<rect data-id="periodo-permico" x="77.6129" y="12.4652" width="15.2049" height="6.2326" fill="#F04028"><title>Permian</title></rect>
+<rect data-id="periodo-carbonifero" x="58.2145" y="12.4652" width="19.3984" height="6.2326" fill="#67A599"><title>Carboniferous</title></rect>
+<rect data-id="periodo-devonico" x="38.5573" y="12.4652" width="19.6572" height="6.2326" fill="#CB8C37"><title>Devonian</title></rect>
+<rect data-id="periodo-silurico" x="30.961" y="12.4652" width="7.5963" height="6.2326" fill="#B3E1B6"><title>Silurian</title></rect>
+<rect data-id="periodo-ordovicico" x="16.807" y="12.4652" width="14.1541" height="6.2326" fill="#009270"><title>Ordovician</title></rect>
+<rect data-id="periodo-cambrico" x="0" y="12.4652" width="16.807" height="6.2326" fill="#7FA056"><title>Cambrian</title></rect>
+<rect x="0.05" y="0.05" width="174.2135" height="18.5978" fill="none"/>
+</g>
+<g font-family="Arial, Helvetica, sans-serif" font-size="2.4694" text-anchor="middle" fill="#000000">
+<text x="87.1567" y="3.9806">Phanerozoic</text>
+<text x="163.6373" y="10.2132">Cenozoic</text>
+<text x="122.8894" y="10.2132">Mesozoic</text>
+<text x="46.4089" y="10.2132">Paleozoic</text>
+<text x="170.1692" y="16.4458">Ng</text>
+<text x="159.9103" y="16.4458">Paleogene</text>
+<text x="140.4893" y="16.4458">Cretaceous</text>
+<text x="118.5869" y="16.4458">Jurassic</text>
+<text x="100.987" y="16.4458" fill="#FFFFFF">Triassic</text>
+<text x="85.2153" y="16.4458">Permian</text>
+<text x="67.9137" y="16.4458">Carboniferous</text>
+<text x="48.3859" y="16.4458">Devonian</text>
+<text x="34.7592" y="16.4458">S</text>
+<text x="23.884" y="16.4458">Ordovician</text>
+<text x="8.4035" y="16.4458">Cambrian</text>
+</g>
+<g class="eje" stroke="#000000" stroke-width="0.1">
+<line x1="174.3135" y1="18.6978" x2="174.3135" y2="19.6978"/>
+<line x1="141.9613" y1="18.6978" x2="141.9613" y2="19.6978"/>
+<line x1="109.6092" y1="18.6978" x2="109.6092" y2="19.6978"/>
+<line x1="77.257" y1="18.6978" x2="77.257" y2="19.6978"/>
+<line x1="44.9048" y1="18.6978" x2="44.9048" y2="19.6978"/>
+<line x1="12.5526" y1="18.6978" x2="12.5526" y2="19.6978"/>
+</g>
+<g font-family="Arial, Helvetica, sans-serif" font-size="2.4694" text-anchor="middle" fill="#000000">
+<text x="174.3135" y="22.0758">0</text>
+<text x="141.9613" y="22.0758">100</text>
+<text x="109.6092" y="22.0758">200</text>
+<text x="77.257" y="22.0758">300</text>
+<text x="44.9048" y="22.0758">400</text>
+<text x="12.5526" y="22.0758">500</text>
+<text x="87.1567" y="25.3452">Age (Ma)</text>
+</g>
+<g class="pie" font-family="Arial, Helvetica, sans-serif" font-size="2.4694" text-anchor="start" fill="#000000">
+<text x="0" y="28.8147">Ages and colors: ICS v2026/06</text>
+</g>
+</svg>

@@ -1,0 +1,22 @@
+# Dependencias y compilación
+node_modules/
+dist/
+coverage/
+*.local
+
+# PDFs de la carta ICS: solo para consulta local, no se publican
+referencias/
+
+# Variables de entorno
+.env
+.env.*
+
+# Registros
+npm-debug.log*
+*.log
+
+# Sistema operativo y editores
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
+.idea/
